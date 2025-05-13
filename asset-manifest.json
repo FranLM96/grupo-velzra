@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/grupo-velzra/static/css/main.df80481a.css",
-    "main.js": "/grupo-velzra/static/js/main.567b0152.js",
+    "main.js": "/grupo-velzra/static/js/main.165d7766.js",
     "static/js/38.4b004fba.chunk.js": "/grupo-velzra/static/js/38.4b004fba.chunk.js",
     "static/js/453.d563f31d.chunk.js": "/grupo-velzra/static/js/453.d563f31d.chunk.js",
     "static/media/logo.svg": "/grupo-velzra/static/media/logo.f8076c057c2929f0ea3dd65a70369b5b.svg",
     "index.html": "/grupo-velzra/index.html",
     "main.df80481a.css.map": "/grupo-velzra/static/css/main.df80481a.css.map",
-    "main.567b0152.js.map": "/grupo-velzra/static/js/main.567b0152.js.map",
+    "main.165d7766.js.map": "/grupo-velzra/static/js/main.165d7766.js.map",
     "38.4b004fba.chunk.js.map": "/grupo-velzra/static/js/38.4b004fba.chunk.js.map",
     "453.d563f31d.chunk.js.map": "/grupo-velzra/static/js/453.d563f31d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.df80481a.css",
-    "static/js/main.567b0152.js"
+    "static/js/main.165d7766.js"
   ]
 }
